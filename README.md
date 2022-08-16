@@ -1,3 +1,3 @@
 # DeviceInfo
 
-Retreiving device information from WinAPI
+Retreiving device(s) information from WinAPI
